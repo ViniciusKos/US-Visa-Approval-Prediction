@@ -1,5 +1,6 @@
 # US-Visa-Approval-Prediction
 
+# python version 3.12.3
 
 ## Git commands
 
