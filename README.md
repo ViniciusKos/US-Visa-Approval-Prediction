@@ -12,4 +12,8 @@ git push origin main
 
 ## How to run?
 
-python -m venv ./venv
+python -m venv ./python_env
+
+source python/bin/activate
+
+pip install -r requirements.txt
