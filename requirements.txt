@@ -21,5 +21,6 @@ botocore
 fastapi
 uvicorn
 jinja2
+from_root
 python-multipart
 -e .
